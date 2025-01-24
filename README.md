@@ -12,3 +12,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
   </p>
+
+<p>
+I have experience utilizing Fortran and C++ to solve differential equations. Currently, my focus is on applying AI in scientific research, particularly within High Energy Physics.
+I have worked with instantons in quantum mechanics on both theoretical and numerical level.
+<p>
