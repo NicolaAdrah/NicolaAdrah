@@ -61,3 +61,13 @@ I have worked with instantons in quantum mechanics on both theoretical and numer
     <img src="https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff" alt="fortran"/>
   </a>
 </p>
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<br/>
+  <p align="center">
+    <a href="https://github.com/NicolaAdrah/github-readme-stats"><img alt="Nicola Github Stats" src="https://github-readme-stats.vercel.app/api?username=NicolaAdrah&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NicolaAdrah&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="nneji123" height="192px"/>
+  <br/>
+  </p>
