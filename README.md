@@ -14,8 +14,9 @@
   </p>
 
 <p>
-I have experience utilizing Fortran and C++ to solve differential equations. Currently, my focus is on applying AI in scientific research, particularly within High Energy Physics.
-I have worked with instantons in quantum mechanics on both theoretical and numerical level.
+I am currently working on <b>oceanographic modeling of open boundary conditions</b> using <b>Julia</b>, particularly with the <b>Oceananigans.jl</b> library, at <b>OGS/SISSA, Trieste, Italy</b>.
+
+I am also a <b>PhD candidate at the University of Trieste</b>, where my research will focus on applying <b>artificial intelligence to High Energy Physics</b>, with a special emphasis on <b>conformal field theory</b>.
 <p>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
