@@ -1,7 +1,7 @@
 ## Hi, I'm Nicola Aladrah <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Theoretical+Physicist;I+am+also+HPC+specialist+by+training" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Theoretical+Physicist+doing+my+PhD+in+AI;I+am+also+HPC+specialist+by+training" /></a>
 </p>
 
 <p align ="center">
@@ -14,9 +14,7 @@
   </p>
 
 <p>
-I am currently working on <b>oceanographic modeling of open boundary conditions</b> using <b>Julia</b>, particularly with the <b>Oceananigans.jl</b> library, at <b>OGS/SISSA, Trieste, Italy</b>.
-
-I am also a <b>PhD candidate at the University of Trieste</b>, where my research will focus on applying <b>artificial intelligence to High Energy Physics</b>, with a special emphasis on <b>conformal field theory</b>.
+I am a <b>PhD candidate at the University of Trieste</b>, where my research focus on the <b>statistical physics approach to machine learning</b>, with a special emphasis on <b>the theoretical foundations of ML</b>.
 <p>
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
